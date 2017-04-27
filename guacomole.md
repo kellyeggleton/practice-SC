@@ -2,5 +2,5 @@
 #intructions
 
 -advocado
--lemon
+-lime
 -salt
